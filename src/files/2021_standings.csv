@@ -1,0 +1,21 @@
+rank,id,name,played,win,draw,lose,goals_for,goals_against,points
+1,50,Manchester City,21,17,2,2,53,13,53
+2,49,Chelsea,21,12,7,2,45,16,43
+3,40,Liverpool,20,12,6,2,52,18,42
+4,42,Arsenal,20,11,2,7,33,25,35
+5,48,West Ham,20,10,4,6,37,27,34
+6,47,Tottenham,18,10,3,5,23,20,33
+7,33,Manchester United,18,9,4,5,30,26,31
+9,39,Wolves,18,7,4,7,13,14,25
+10,46,Leicester City,18,7,4,7,31,33,25
+8,51,Brighton,19,6,9,4,20,20,27
+11,52,Crystal Palace,20,5,8,7,29,30,23
+13,66,Aston Villa,19,7,1,11,25,30,22
+14,41,Southampton,19,4,9,6,20,29,21
+12,55,Brentford,19,6,5,8,23,26,23
+15,45,Everton,18,5,4,9,23,32,19
+16,63,Leeds United,19,4,7,8,21,37,19
+17,38,Watford,18,4,1,13,22,36,13
+18,44,Burnley,17,1,8,8,16,27,11
+19,34,Newcastle,19,1,8,10,19,42,11
+20,71,Norwich City,19,2,4,13,8,42,10
